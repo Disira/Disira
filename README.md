@@ -18,10 +18,7 @@
   <a href="mailto:disirajayasinghe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/disirajayasinghe/" target="_blank">
-    <span class="ico-circle">
-        <i class="ion-social-linkedin"></i>
-    </span>
+  <a href="https://www.linkedin.com/in/disirajayasinghe/" target="_blank" class="fa fa-linkedin">
   </a>
   <a href="https://disira.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
